@@ -1,0 +1,15 @@
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\bin\Debug\net7.0\Task-19.exe
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\bin\Debug\net7.0\Task-19.deps.json
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\bin\Debug\net7.0\Task-19.runtimeconfig.json
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\bin\Debug\net7.0\Task-19.dll
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\bin\Debug\net7.0\Task-19.pdb
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.csproj.AssemblyReference.cache
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.AssemblyInfoInputs.cache
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.AssemblyInfo.cs
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.dll
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\refint\Task-19.dll
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.pdb
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\Task-19.genruntimeconfig.cache
+D:\Рабочий стол\Учеба\Home Work-3\Task-19\obj\Debug\net7.0\ref\Task-19.dll
